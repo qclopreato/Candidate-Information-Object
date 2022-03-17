@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+}
+
+.johnDiv {
+  margin: 10px;
+  text-align: center;
+  border: 1px dashed black;
+}
+
+#johnPic {
+  margin: auto;
+  display: block;
+  width: 270px;
+  height: 270px;
+}
+
+.maryDiv {
+  margin: 10px;
+  text-align: center;
+  border: 1px dashed black;
+}
+
+#maryPic {
+  margin: auto;
+  display: block;
+  width: 270px;
+  height: 270px;
+}
+
+.bobDiv {
+  margin: 10px;
+  text-align: center;
+  border: 1px dashed black;
+}
+
+#bobPic {
+  margin: auto;
+  display: block;
+  width: 270px;
+  height: 270px;
+}

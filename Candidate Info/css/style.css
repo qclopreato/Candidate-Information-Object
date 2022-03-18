@@ -11,8 +11,10 @@ h1 {
 #johnPic {
   margin: auto;
   display: block;
-  width: 270px;
-  height: 270px;
+  width: 90%;
+  height: 50%;
+  max-width: 350px;
+  max-height: 350px;
 }
 
 .maryDiv {
@@ -24,8 +26,10 @@ h1 {
 #maryPic {
   margin: auto;
   display: block;
-  width: 270px;
-  height: 270px;
+  width: 90%;
+  height: 50%;
+  max-width: 350px;
+  max-height: 350px;
 }
 
 .bobDiv {
@@ -37,6 +41,8 @@ h1 {
 #bobPic {
   margin: auto;
   display: block;
-  width: 270px;
-  height: 270px;
+  width: 90%;
+  height: 50%;
+  max-width: 350px;
+  max-height: 350px;
 }

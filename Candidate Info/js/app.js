@@ -42,7 +42,7 @@ document.getElementById(`submitMary`).addEventListener(`click`, function(){
 document.getElementById(`submitBob`).addEventListener(`click`, function(){
     if (document.getElementById(`salary--bob`).checked === true){
         document.getElementById(`salary--bob--out`).innerHTML = `Salary Expectations: ` + information["Bob Ryan"].salary;
-    } if (document.getElementById(`experience--mary`).checked === true){
+    } if (document.getElementById(`experience--bob`).checked === true){
         document.getElementById(`experience--bob--out`).innerHTML = `Work Experience: ` + information["Bob Ryan"].work_experience;
     } if (document.getElementById(`personality--bob`).checked === true){
         document.getElementById(`personality--bob--out`).innerHTML = `Personality: ` + information["Bob Ryan"].personality;
